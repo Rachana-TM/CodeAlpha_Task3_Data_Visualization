@@ -96,26 +96,6 @@ Files Used:
 
 ---
 
-# 📷 Project Screenshots
-
-### Customer Distribution
-
-(Add Screenshot)
-
-### Payment Methods
-
-(Add Screenshot)
-
-### Monthly Orders
-
-(Add Screenshot)
-
-### Delivery Time
-
-(Add Screenshot)
-
----
-
 # 🚀 Conclusion
 
 This project demonstrates how data visualization can transform raw business data into meaningful insights that support decision-making.
