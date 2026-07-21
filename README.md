@@ -84,34 +84,6 @@ Files Used:
 - Product prices are concentrated in the low-to-mid range.
 - Monthly orders show seasonal variations.
 
----
-CodeAlpha_Task3_Data_Visualization/
-│
-├── 📓 Data_Visualization.ipynb
-├── 📄 README.md
-├── 📄 requirements.txt
-│
-├── 📂 dataset/
-│   ├── olist_customers_dataset.csv
-│   ├── olist_orders_dataset.csv
-│   ├── olist_order_items_dataset.csv
-│   ├── olist_order_payments_dataset.csv
-│   ├── olist_order_reviews_dataset.csv
-│   └── olist_products_dataset.csv
-│
-└── 📂 images/
-    ├── customer_distribution_by_state.png
-    ├── top_10_customer_cities.png
-    ├── payment_method_distribution.png
-    ├── review_score_distribution.png
-    ├── order_status_distribution.png
-    ├── monthly_order_trend.png
-    ├── product_price_distribution.png
-    ├── revenue_by_payment_method.png
-    ├── average_payment_value.png
-    ├── delivery_time_distribution.png
-    └── correlation_heatmap.png
-
 # 💼 Business Recommendations
 
 - Increase marketing in high-performing regions.
@@ -121,6 +93,13 @@ CodeAlpha_Task3_Data_Visualization/
 - Use seasonal trends for inventory planning.
 
 ---
+# Dataset/
+olist_customers_dataset.csv
+olist_orders_dataset.csv
+olist_order_items_dataset.csv
+olist_order_payments_dataset.csv
+olist_order_reviews_dataset.csv
+olist_products_dataset.csv
 
 # 🚀 Conclusion
 
